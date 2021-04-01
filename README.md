@@ -1,10 +1,9 @@
 # CodeBreaking
 
 Code Breaking Game!
-By: David Zaldivar
+By: David Zaldivar 
 
-
-Files: 
+## Files: 
 
     Included file to encode: 
         rs2.txt
@@ -20,7 +19,7 @@ Files:
 
 
 
-Purpose:  
+## Purpose  
     This program encodes a text file submitted by the user, based on a submitted subkey file.
     Once encoded, frequency analysis of the encoded file will be computed, and the user must choose how many 
     characters (with the highest frequency) to substitute (decode), following the included Frequency file.  
@@ -38,7 +37,7 @@ Purpose:
     Decoded characters appear in uppercase
 
    
-To Fix: 
+## To Fix: 
     1.  The frequency Analysis substitution is cheating, by using the SubKey to draw replacement 
         letters from, rather than the computed frequency.  
         Location: EncodedFile.SubstituteTopLetters
