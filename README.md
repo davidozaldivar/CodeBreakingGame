@@ -1,6 +1,4 @@
-# CodeBreaking
-
-Code Breaking Game!
+# Code Breaking Game!
 
 By: David Zaldivar 
 
